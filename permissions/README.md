@@ -1,0 +1,1 @@
+Permissions determine who can read and/or modify the contents of a file or directory, and who can execute a program file or access the contents of a directory. The first character indicates the type of file, in this case it is a file by the hyphen.
