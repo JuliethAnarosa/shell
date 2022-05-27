@@ -1,2 +1,2 @@
 #!/bin/bash
-$ find path -type d | wc -l
+eco  $RUTA  | tr -s ' : '  ' \n '  | wc-l
