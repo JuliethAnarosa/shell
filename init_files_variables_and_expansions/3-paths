@@ -1,2 +1,2 @@
 #!/bin/bash
-eco  $RUTA  | tr -s ' : '  ' \n '  | wc-l
+eco  $PATH  | tr -s ' : '  ' \n '  | wc-l
