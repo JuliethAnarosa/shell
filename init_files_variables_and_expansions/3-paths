@@ -1,2 +1,2 @@
 #!/bin/bash
-eco  $PATH  | tr -s ' : '  ' \n '  | wc-l
+find /usr/local/sbin -type d | wc -l
